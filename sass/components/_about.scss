@@ -1,0 +1,28 @@
+.about{
+    padding: 120px 0 20px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ba815065;
+
+}
+.about-img{
+    flex-basis: 50%;
+    text-align: center;
+    & img{
+        width: 350px;
+    }
+}
+
+.about-txt{
+    flex-basis: 50%;
+}
+.btn-3{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 13px 25px;
+    background-color: #ba8250;
+    color: #DFDDE0;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+    margin-bottom: 25px;
+}

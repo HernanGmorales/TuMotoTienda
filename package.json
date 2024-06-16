@@ -1,0 +1,15 @@
+{
+  "name": "migracion-sass-ecommerce-motor",
+  "version": "1.0.0",
+  "description": "Migracion de css a sass",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass":"node-sass sass/main.scss css/main.css --watch"
+  },
+  "author": "Hernán Morales",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}

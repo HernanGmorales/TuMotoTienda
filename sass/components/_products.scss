@@ -1,0 +1,73 @@
+.headerShop{
+    display: flex;
+    align-items: center;
+    min-width: 80vh;
+    .menu{
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+}
+.bodyShop{
+    background: linear-gradient(
+        90deg, 
+        rgba(47,28,42,1) 0%,
+        rgba(45,54,61,1) 50%,
+        rgba(19,41,65,1) 100%
+    );
+}
+.products{
+    margin-top: 20px;
+    padding: 0 0 200px 0;
+    text-align: center;
+
+    & h2{
+        margin-bottom: 50px;
+    }
+}
+
+
+.product-content{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 70px;
+}
+
+.precio{
+    color: #ba8250;
+    font-weight: 800;
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+.btn-2{
+    margin: 0;
+    padding: 8px 35px;
+}
+
+.scroll{
+    
+    margin-top: 50px;
+}
+
+.imgC{
+    align-items: center;
+    margin-top: 30px;
+    width: 800px;
+}
+
+.productsShop{
+    display: flex;
+    align-items: center;
+    min-width: 80vh;
+    background: linear-gradient(
+        90deg, 
+        rgba(47,28,42,1) 0%,
+        rgba(45,54,61,1) 50%,
+        rgba(19,41,65,1) 100%
+    );
+}
