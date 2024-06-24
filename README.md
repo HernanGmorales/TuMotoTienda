@@ -3,6 +3,12 @@
 ### Preview Responsive Mockup
 ![](https://github.com/HernanGmorales/TuMotoTienda/blob/master/previewmoto.png)
 
+### Ver ejemplo en vivo
+
+https://hernangmorales.github.io/TuMotoTienda/
+
+* ✉️  You can contact me at [hernangmoralesb@gmail.com](mailto:hernangmoralesb@gmail.com)
+
 Este repositorio contiene el código fuente del frontend de una tienda de motos, desarrollado utilizando HTML, CSS, Sass, AOS, Bootstrap y JavaScript.
 
 Tecnologías Utilizadas:
@@ -14,11 +20,7 @@ Bootstrap: Framework CSS para un diseño responsive y componentes frontend.<br><
 JavaScript: Programación interactiva y dinámica en el cliente.<br><br>
 Este proyecto se enfoca en ofrecer una experiencia de usuario fluida y atractiva para la compra de motos, utilizando tecnologías modernas para mejorar la usabilidad y la presentación visual.
 
-### Ver ejemplo en vivo
 
-https://hernangmorales.github.io/TuMotoTienda/
-
-* ✉️  You can contact me at [hernangmoralesb@gmail.com](mailto:hernangmoralesb@gmail.com)
 
 ### Conecta conmigo
 
