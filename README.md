@@ -1,5 +1,8 @@
 ## Proyecto Frontend de Tienda de Motos
 
+### Preview Responsive Mockup
+![](https://github.com/HernanGmorales/TuMotoTienda/blob/master/previewmoto.png)
+
 Este repositorio contiene el código fuente del frontend de una tienda de motos, desarrollado utilizando HTML, CSS, Sass, AOS, Bootstrap y JavaScript.
 
 Tecnologías Utilizadas:
