@@ -206,6 +206,27 @@ h3 {
   font-size: 20px;
   margin-bottom: 25px; }
 
+.imgmotor {
+  align-items: center;
+  margin-top: 100px;
+  margin-left: 450px;
+  width: 550px; }
+
+.textoFloat {
+  position: relative;
+  right: 500px;
+  top: -50px;
+  color: #ba8250; }
+
+.textoFloat3 {
+  position: relative;
+  margin-top: 370px;
+  padding: 50px;
+  right: 200px; }
+
+.contenedor {
+  max-width: 500px; }
+
 .headerShop {
   display: flex;
   align-items: center;
@@ -305,4 +326,16 @@ h3 {
   .footer {
     padding: 30px;
     flex-direction: column;
-    text-align: center; } }
+    text-align: center; }
+  .imgmotor {
+    margin-left: 300px; }
+  .textoFloat {
+    position: relative;
+    right: 500px;
+    color: #ba8250; }
+  .textoFloat3 {
+    position: relative;
+    padding: 50px;
+    right: 200px; }
+  .contenedor {
+    max-width: 500px; } }
