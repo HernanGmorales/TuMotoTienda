@@ -1,11 +1,11 @@
 ## Proyecto Frontend de Tienda de Motos
 
-### Preview Responsive Mockup
-![](https://github.com/HernanGmorales/TuMotoTienda/blob/master/previewmoto.png)
-
 ### Ver ejemplo en vivo
 
 https://hernangmorales.github.io/TuMotoTienda/
+#### Preview Responsive Mockup
+![](https://github.com/HernanGmorales/TuMotoTienda/blob/master/previewmoto.png)
+
 
 * ✉️  You can contact me at [hernangmoralesb@gmail.com](mailto:hernangmoralesb@gmail.com)
 
@@ -44,3 +44,7 @@ Este proyecto se enfoca en ofrecer una experiencia de usuario fluida y atractiva
   <a href="https://www.linkedin.com/in/hernán-g-morales/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+
+
+
+      
